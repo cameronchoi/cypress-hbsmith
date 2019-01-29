@@ -1,0 +1,22 @@
+{
+  "name": "cypress-hbsmith",
+  "version": "1.0.0",
+  "description": "Compilation of cypress tests done while at HBSmith",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cameronchoi/cypress-hbsmith.git"
+  },
+  "author": "Cameron Choi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cameronchoi/cypress-hbsmith/issues"
+  },
+  "homepage": "https://github.com/cameronchoi/cypress-hbsmith#readme",
+  "devDependencies": {
+    "cypress": "^3.1.4"
+  }
+}
